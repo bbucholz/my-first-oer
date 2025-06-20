@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: "OER-Workshop-Template"
-author: QUADRIGA, Hannes Schnaitter
+title: "My first OER"
+author: QUADRIGA, Bettina Buchholz
 logo: assets/logo.jpg
 copyright: "2025, QUADRIGA"
 exclude_patterns: [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints", conda, venv, .venv, README.md, LICENSE.md, useful_documentation.md, .github, "**Reviewbogen.md", Checkliste_Finalisierung.md, sprints.md]
@@ -35,7 +35,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/quadriga-dk/OER-Workshop-Template # Online location of your book
+  url: https://bbucholz.github.io/my-first-oer/ # Online location of your book
   # path_to_book: book  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
