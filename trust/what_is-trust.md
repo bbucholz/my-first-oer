@@ -1,7 +1,7 @@
 # What is trust?
 What is the problem?
 
-```{admonition} Test
+```{admonition} Sonnenschein
 :class: tip
-Mal schauen ob das klappt - das ist ein tooles Tool!.
+Heute scheint die Sonne.
 ```
