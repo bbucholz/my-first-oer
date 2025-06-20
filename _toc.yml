@@ -12,6 +12,7 @@ chapters:
       - file: präambel/technische_voraussetzungen.md
       - file: präambel/vorkenntnisse.md
   - file: trust/what_is-trust.md
+    sections:
       - file: how-can-I-trust.md
       - file: new_level.md
   - file: epilog/toc.md
