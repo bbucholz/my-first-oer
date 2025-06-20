@@ -13,8 +13,8 @@ chapters:
       - file: präambel/vorkenntnisse.md
   - file: trust/what_is-trust.md
     sections:
-      - file: how-can-I-trust.md
-      - file: new_level.md
+      - file: trust/how-can-I-trust.md
+      - file: trust/new_level.md
   - file: epilog/toc.md
     sections:
       - file: epilog/literaturverzeichnis.md
